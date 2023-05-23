@@ -11,8 +11,8 @@ What does this repo include:
 * SLAM: Doing Localization and Mapping iteratively.
 
 # RoadMap
-- [ ] Basic repo using pypoetry
-- [ ] Understanding Feature Matching
+- [x] Basic repo using pypoetry
+- [x] Understanding Feature Matching
 - [ ] Basics of Epipolar geometry
 - [ ] Using camera intrinsics and determining Essential matrix
 - [ ] Visual Odometry (basic)
